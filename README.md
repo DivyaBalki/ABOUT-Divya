@@ -1,6 +1,8 @@
 # ABOUT-Divya 
- UG - Computer Science and Engineering(Anna University) :woman_student:	
+ UG - Computer Science and Engineering(Anna University) :woman_student:
+ 
  PGDM - Data science and Machine learning (MITx) :student:	
+ 
  work - Currently working in DXC TECHNOLOGY as DevOps Engineer :office:
         Role: Setting up infra using VMware over AWS / automation of CI/CD  
 
