@@ -15,6 +15,7 @@
 :snake:	Python| Modules and Projects
 
 👨‍💻 Some of the projects I have worked recently
+
 📦 Setting up Infrastructure over servers - Github
 
 📦 Deploying an agent using ANSIBLE and storing in S3 using .py - Github
@@ -26,6 +27,7 @@
 📦 Containerizing a VM and running it over Kubernetes - Github
 
 🧾 Certifications I have Accomplished
+
 🎖 Azure-900 fundamentals : Microsoft
 
 🎖 Oracle cloud Infrastructure : Oracle
