@@ -3,8 +3,8 @@
  
  PGDM - Data science and Machine learning (MITx) :student:	
  
- work - Currently working in DXC TECHNOLOGY as DevOps Engineer :office:
-        Role: Setting up infra using VMware over AWS / automation of CI/CD  
+ WORK - Currently working in DXC TECHNOLOGY as AZURE DevOps Engineer :office:
+        Role: Setting up infra using VMware over AWS / automation of CI/CD 
 
  :sparkles: Keen interests in Data science :chart: and Python :snake:
  :e-mail: divyabalakrishnan749@gmail.com 
